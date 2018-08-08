@@ -1,0 +1,1 @@
+export const FETCH_WALLETS = "fetch_wallets";
